@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hey, I'm Neha<br><br>BTech CSE | Full-Stack Developer in the making <br><br>I’m currently focused on building real-world web systems — not just static websites. My work revolves around backend logic, authentication, databases, API integrations, and bringing real functionality to the browser.<br><br>
+# 💫 Hey, I'm Neha Roy
+BTech CSE | Full-Stack Developer in the making <br><br>I’m currently focused on building real-world web systems — not just static websites. My work revolves around backend logic, authentication, databases, API integrations, and bringing real functionality to the browser.<br><br>
 
 
 ## 🌐 Socials:
