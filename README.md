@@ -17,6 +17,10 @@ BTech CSE | Software Developer/Engineer in the making <br><br>I’m currently fo
 
 ![](https://nirzak-streak-stats.vercel.app/?user=neharoy3&theme=highcontrast&hide_border=false)<br/>
 <!--
+## 📈 My Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/neharoy?theme=dark&font=Sarala&ext=heatmap)](https://leetcode.com/u/neharoy/)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neharoy3&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
