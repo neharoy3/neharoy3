@@ -11,17 +11,16 @@ BTech CSE | Software Developer/Engineer in the making <br><br>I’m currently fo
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=neharoy3&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true) <br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=neharoy3&theme=highcontrast&hide_border=false)<br/>
-<!--
-## 📈 My Stats
+# 📊 Stats:
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/neharoy?theme=dark&font=Sarala&ext=heatmap)](https://leetcode.com/u/neharoy/)
 
+![](https://github-readme-streak-stats-vijaypur.vercel.app?user=neharoy3&theme=dark)] <br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=neharoy3&theme=highcontrast&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neharoy3&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!--
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=neharoy3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
