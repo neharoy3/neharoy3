@@ -13,15 +13,10 @@ BTech CSE | Software Developer/Engineer in the making <br><br>I’m currently fo
 
 # 📊 Stats:
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/neharoy?theme=dark&font=Sarala&ext=heatmap)](https://leetcode.com/u/neharoy/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/neharoy?theme=dark&font=Sarala&ext=heatmap)](https://leetcode.com/u/neharoy/)</br>
 
-![](https://github-readme-streak-stats-vijaypur.vercel.app?user=neharoy3&theme=dark)] <br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=neharoy3&theme=highcontrast&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neharoy3&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats-vijaypur.vercel.app?user=neharoy3&theme=dark)
 <!--
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=neharoy3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
