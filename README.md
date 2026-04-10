@@ -21,3 +21,5 @@ B.Tech CSE | Software Engineer in the making :)<br><br>I’m currently focused o
 [![](https://visitcount.itsvg.in/api?id=neharoy3&icon=0&color=1)](https://visitcount.itsvg.in)
 
 -->
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
